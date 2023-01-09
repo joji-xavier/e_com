@@ -67,10 +67,10 @@ class LoginView extends GetView<LoginController> {
                           margin: EdgeInsets.all(10),
                           child: Column(
                             children: [
-                              Image.asset(
-                                'assets/images/logo.png',
-                                height: 150,
-                              ),
+//                               Image.asset(
+//                                 'assets/images/logo.png',
+//                                 height: 150,
+//                               ),
                               SizedBox(
                                 height: 5,
                               ),
