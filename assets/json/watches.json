@@ -1,0 +1,50 @@
+[{
+    "PRODUCTID": 1,
+    "PRODUCTNAME": "TAG Heuer Carrera",
+    "STRAPCOLOR": "Brown",
+    "HIGHLIGHTS": "Stainless steel case and leather strap, chronograph function, date display",
+    "PRICE": 3500,
+    "STATUS": true,
+    "IMAGE": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzxq2xo8zt692N6XMayuZMeclGWLm0eIO-STzMzKQzBMBumNGcllYKhfTlCT9Axfh18MJL_BlwTsU&usqp=CAc"
+  },
+  
+  {
+    "PRODUCTID": 2,
+    "PRODUCTNAME": "Tissot T-Race",
+    "STRAPCOLOR": "Orange",
+    "HIGHLIGHTS": "Stainless steel case and rubber strap, chronograph function, tachymeter scale",
+    "PRICE": 1500,
+    "STATUS": true,
+    "IMAGE": "https://staticimg.titan.co.in/Fastrack/Catalog/38058PP03_1.jpg?pView=pdp"
+  },
+  
+  {
+    "PRODUCTID": 3,
+    "PRODUCTNAME": "Omega Seamaster",
+    "STRAPCOLOR": "Black",
+    "HIGHLIGHTS": "Stainless steel case and bracelet, water resistant up to 300 meters, date display",
+    "PRICE": 4000,
+    "STATUS": true,
+    "IMAGE": "https://staticimg.titan.co.in/Fastrack/Catalog/3255NM02_1.jpg?pView=pdp"
+  },
+  
+  {
+    "PRODUCTID": 4,
+    "PRODUCTNAME": "Breitling Navitimer",
+    "STRAPCOLOR": "Silver",
+    "HIGHLIGHTS": "Stainless steel case and bracelet, chronograph function, slide rule bezel",
+    "PRICE": 5000,
+    "STATUS": true,
+    "IMAGE": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3m0kcKQdGDF6tJBH7F2BgW57rZ4z58yJsjq7ZqDLIdLQUhnw0zLdhyb7iyw9eGxN2dVwTW9GIFBw&usqp=CAc"
+  },
+  
+  {
+    "PRODUCTID": 5,
+    "PRODUCTNAME": "Invicta Pro Diver",
+    "STRAPCOLOR": "Gold",
+    "HIGHLIGHTS": "Stainless steel case and bracelet, water resistant up to 300 meters, date display",
+    "PRICE": 1000,
+    "STATUS": true,
+    "IMAGE": "https://staticimg.titan.co.in/Fastrack/Catalog/38058PP03_1.jpg?pView=pdp"
+  }
+  ]

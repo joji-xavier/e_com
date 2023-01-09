@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211600745566",
+    "project_id": "e-com-79bc6",
+    "storage_bucket": "e-com-79bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211600745566:android:d225c72b2ba243269980cf",
+        "android_client_info": {
+          "package_name": "com.vinokha.e_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211600745566-01db9p3rd3cuamrlftbqgj1179j72p4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinokha.e_com",
+            "certificate_hash": "34fb0c8f1c568fb179e6230139e7278a43577708"
+          }
+        },
+        {
+          "client_id": "211600745566-ju2pk83lepbj6besan9ubq74v8lji0j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLnlez9u9hhGkYkUVgnwQb3S4BBrRV4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211600745566-ju2pk83lepbj6besan9ubq74v8lji0j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
